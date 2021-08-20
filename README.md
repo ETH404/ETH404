@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ETH404
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning Solidity and JavaScript
 - 💞️ I’m looking to collaborate on my first project
